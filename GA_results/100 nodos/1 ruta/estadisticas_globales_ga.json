@@ -1,0 +1,23 @@
+{
+    "IGD": {
+        "Media": 0.06504644615044494,
+        "Mediana": 0.06595178490198524,
+        "Desviacion_Estandar": 0.01052920527904687,
+        "Mejor_Corrida": 0.04173869608891961,
+        "Peor_Corrida": 0.08630398732483296
+    },
+    "Hypervolume": {
+        "Media": 0.3434825568277843,
+        "Mediana": 0.3424316721556905,
+        "Desviacion_Estandar": 0.02664105563775538,
+        "Mejor_Corrida": 0.4067765881012303,
+        "Peor_Corrida": 0.28799161059811723
+    },
+    "Spacing": {
+        "Media": 0.05201848244023332,
+        "Mediana": 0.04995253316002295,
+        "Desviacion_Estandar": 0.01997349847260675,
+        "Mejor_Corrida": 0.01926149632130166,
+        "Peor_Corrida": 0.09309016587683386
+    }
+}
